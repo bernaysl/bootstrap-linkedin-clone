@@ -1,1 +1,1 @@
-#echo bootstrap-linkedin-clone
+### düzenleme yapılacaktır.
